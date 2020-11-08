@@ -12,7 +12,7 @@
 
 
 
-🎯 **Objective** : This project is designed to derive analytics and also do some mining ⛏ on the Film :film_strip: industry timeline. 
+🎯 **Objective** : This project is designed to derive analytics and also do some mining ⛏ on the Film 🎦 industry timeline. 
 
 It's a simple project showcasing the power of **Graph Database** accompanied with **Python**. 
 
@@ -26,7 +26,7 @@ The best part of this project is that it's simply about **fun** 🥳 🥳.
 
 📌 Need to have `py2neo` installed. To install `py2neo` simply run this command `pip3 install py2neo`
 
-**Disclaimer** : I faced a lot of trouble creating a database on neo4j as it's not a professional version. So I found this [neo4j-link](https://stackoverflow.com/questions/60429947/error-occurs-when-creating-a-new-database-under-neo4j-4-0) which worked for me.
+**Disclaimer** : I faced a lot of trouble creating a database on neo4j as it's not a professional version. So I found this [neo4j-hack](https://stackoverflow.com/questions/60429947/error-occurs-when-creating-a-new-database-under-neo4j-4-0) quiet useful.
 
 
 
@@ -40,7 +40,15 @@ As GitHub won't be able to render some graphs thereby I'm attaching the `nbViewe
 
 * [Analytics](https://nbviewer.ipython.org/github/lucifermorningstar1305/movieAnalytics/blob/main/Analytics.ipynb)
 
+## Code-Structure ♾️ ♾️
 
+* connector.py -- a simple python file to connect to your Neo4j database.
+
+* insertData.py -- a python script to insert Data into your Neo4j database.
+
+* dummy-config.ini -- a configuration file required by connector.py . This file is just a **template**
+
+  
 
  Feel free to a add a star ⭐ if you like my project. Thanks 😊 
 
