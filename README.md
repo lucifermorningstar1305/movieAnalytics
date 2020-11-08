@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/Made--with-Python-important?style=plastic&logo=python&logoColor=yellow) ![](https://img.shields.io/badge/Type-Analytics-informational?style=plastic) ![](https://img.shields.io/badge/version-v1.0-success?style=plastic) 
 
-![](https://github.com/lucifermorningstar1305/netflix/blob/main/Movie_analytics.png?raw=true)
+![](https://github.com/lucifermorningstar1305/movieAnalytics/blob/main/Movie_analytics.png?raw=true)
 
 
 
@@ -34,7 +34,15 @@ The best part of this project is that it's simply about **fun** 🥳 🥳.
 
 I have made my personal scrapper for this project, which can be found in this [GitHub-link](https://github.com/lucifermorningstar1305/scrappy). 
 
+## NBViewer 📔📔
 
+As GitHub won't be able to render some graphs thereby I'm attaching the `nbViewer` link for this notebook
+
+* [Analytics](https://nbviewer.ipython.org/github/lucifermorningstar1305/movieAnalytics/blob/main/Analytics.ipynb)
+
+
+
+ Feel free to a add a star ⭐ if you like my project. Thanks 😊 
 
 
 
